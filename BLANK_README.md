@@ -107,9 +107,9 @@ Ao inciar o projeto é aberto a tela principal onde deve ser colocados o seu usu
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisitos
+### Pre-requisitos
 
-This is an example of how to list things you need to use the software and how to install them.
+Para programar este gerenciador foi utilizado:
 * vscode
   
   [  https://code.visualstudio.com/
