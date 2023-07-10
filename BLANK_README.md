@@ -105,8 +105,8 @@ Ao inciar o projeto é aberto a tela principal onde deve ser colocados o seu usu
 <!-- GETTING STARTED -->
 ## Começando
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Segue abaixo o passo a passo de como colocar em funcionamento o projeto de SCRUM no seu computador. 
+Siga estas simples etapas de exemplo:
 
 ### Pre-requisitos
 
@@ -126,11 +126,17 @@ Para programar este gerenciador foi utilizado:
 1. Baixei o arquivo .exe de acordo com o seu sistema operacional.
 2. Aceite os termos e prossiga com a instalação
 3. Após a instalação abra o vs code e instale as extensões c++:
-   ```sh
+   
    C++.
+   
    C++: COMPILER RUN.
+   
+   (Caso possua maiores dúvidas, por favor consultar o tutorial em anexo: [Instalação do VSCode](https://youtu.be/uxln1hT_Ev4))
+   
+5. Após estes passos abra o terminal do vscode e coloque o seguinte comando:
+   ```sh
+   git clone https://github.com/caiogbiel/Gerenciador_de_tarefas_SCRUM.git
    ```
-   Caso possua maiores dúvidas, por favor consultar o tutorial em anexo:[Instalação do VSCode](https://youtu.be/uxln1hT_Ev4)
    
 <p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
 
