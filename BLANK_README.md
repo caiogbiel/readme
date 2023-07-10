@@ -176,11 +176,11 @@ A colaboração é o elemento fundamental que torna a comunidade de código aber
 
 Se você tiver alguma sugestão para aprimorar o projeto, você pode criar um "fork" do repositório e enviar uma solicitação pull com suas alterações. Se preferir, você também pode abrir um problema, marcando-o como "melhoria". Além disso, seria muito apreciado se você pudesse dar uma estrela ao projeto! Agradecemos novamente pela sua participação!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/Gerenciador_de_tarefas_SCRUM`)
-3. Commit your Changes (`git commit -m 'Add some Gerenciador_de_tarefas_SCRUM'`)
-4. Push to the Branch (`git push origin feature/Gerenciador_de_tarefas_SCRUM`)
-5. Open a Pull Request
+1. Faça um "fork" do projeto.
+2. Crie uma nova ramificação para sua funcionalidade (git checkout -b feature/IncrivelFuncionalidade).
+3. Faça os commits com suas alterações (git commit -m 'Adicionar alguma IncrivelFuncionalidade').
+4. Faça o push para a sua ramificação (git push origin feature/IncrivelFuncionalidade).
+5. Abra uma solicitação pull.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
