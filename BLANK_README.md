@@ -186,9 +186,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contatos
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Caio Gabriel - caio.cardoso.133@ufrn.edu.br
+Luis Henrique - luis.scalabrin.097@ufrn.edu.br
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [[https://github.com/github_username/repo_name](https://github.com/github_username/repo_name](https://github.com/caiogbiel/Gerenciador_de_tarefas_SCRUM.git))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,7 +199,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 ## Agradecimentos
 
 * Alan Turing e Charles Babbage: Pai da computação;
-* Patrick: Professor de lp1
+* Patrick: Professor de lp1;
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
