@@ -115,7 +115,7 @@ Para programar este gerenciador foi utilizado:
   [  https://code.visualstudio.com/
 ](https://code.visualstudio.com/Download)
 
-* github
+* github(opcional)
   
   [https://github.com/](https://github.com/dashboard)
 
@@ -134,7 +134,19 @@ Para programar este gerenciador foi utilizado:
 <!-- USAGE EXAMPLES -->
 ## Uso
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+A usabilidade do Scrum está centrada em promover a entrega de valor de forma colaborativa, adaptativa e transparente. Aqui estão algumas características importantes da usabilidade do Scrum:
+
+* Colaboração: O Scrum incentiva a colaboração intensa entre os membros da equipe, que trabalham juntos para alcançar os objetivos do projeto. A comunicação eficaz e a troca contínua de conhecimento são fundamentais para o sucesso do Scrum.
+
+* Adaptabilidade: O Scrum é projetado para se adaptar a mudanças. Durante o desenvolvimento do projeto, as equipes Scrum têm flexibilidade para ajustar as prioridades, refinar o backlog do produto e responder a novos requisitos ou insights. A capacidade de adaptação é essencial para lidar com incertezas e requisitos em constante evolução.
+
+* Transparência: A transparência é uma das bases do Scrum. Todas as atividades, progresso, problemas e decisões devem ser visíveis para todos os membros da equipe. Isso promove a confiança, o compartilhamento de informações e a tomada de decisões informadas.
+
+* Entrega incremental: O Scrum busca entregar valor em incrementos frequentes e mensuráveis. Em cada sprint, a equipe trabalha em uma parte do produto que possa ser potencialmente entregue. Isso permite que os stakeholders obtenham resultados tangíveis mais rapidamente e fornece oportunidades para receber feedback valioso.
+
+* Foco no cliente: O Scrum coloca o cliente e seus requisitos no centro do processo de desenvolvimento. Através do envolvimento do Product Owner e da priorização adequada do backlog do produto, as necessidades do cliente são atendidas de maneira eficaz e o valor para o cliente é maximizado.
+
+* Melhoria contínua: O Scrum valoriza a aprendizagem e a melhoria contínua. Após cada sprint, a equipe realiza uma retrospectiva para identificar pontos fortes, oportunidades de melhoria e ações para aprimorar seu desempenho no próximo sprint. Essa abordagem permite que a equipe se adapte e se aprimore ao longo do tempo.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
