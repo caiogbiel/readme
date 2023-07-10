@@ -148,9 +148,9 @@ A usabilidade do Scrum está centrada em promover a entrega de valor de forma co
 
 * Melhoria contínua: O Scrum valoriza a aprendizagem e a melhoria contínua. Após cada sprint, a equipe realiza uma retrospectiva para identificar pontos fortes, oportunidades de melhoria e ações para aprimorar seu desempenho no próximo sprint. Essa abordagem permite que a equipe se adapte e se aprimore ao longo do tempo.
 
-Para mais informações, por favor verifique o [Guia do SCRUM oficial]([https://example.com](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-3.0.pdf))_
+Para mais informações, por favor verifique o [Guia oficial do SCRUM](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-3.0.pdf)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
 
 
 
