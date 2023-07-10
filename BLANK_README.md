@@ -86,15 +86,16 @@
   <a href="https://github.com/github_username/repo_name">
     <img src="Capturar.PNG" alt="Logo" width="600" height="600">
   </a>
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+
+Ao inciar o projeto é aberto a tela principal onde deve ser colocados o seu usuário e a função que vc possui que pode ser:   product_owner, developer, scrum_master. Em seguida sera exibido a tela principal onde nela irá conter funções gerais e funções específicas de acordo com sua função.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 
 
 ### Constuido com
-*[![C++](https://www.cpplogo.com/cpp_logo.png)](https://www.cplusplus.com/)
-* [![Next][Next.js]][Next-url]
+* [![C++](download.png)](https://www.cplusplus.com/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,9 +110,9 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisitos
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* vscode
   ```sh
-  npm install npm@latest -g
+  
   ```
 
 ### Instalação
