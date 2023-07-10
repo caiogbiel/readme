@@ -199,7 +199,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 * Alan Turing e Charles Babbage: Pai da computação;
 * Patrick: Professor de lp1
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
