@@ -87,7 +87,7 @@
     <img src="Capturar.PNG" alt="Logo" width="600" height="600">
   </a>
 
-Ao inciar o projeto é aberto a tela principal onde deve ser colocados o seu usuário e a função que vc possui que pode ser:   product_owner, developer, scrum_master. Em seguida sera exibido a tela principal onde nela irá conter funções gerais e funções específicas de acordo com sua função.
+Ao inciar o projeto é aberto a tela principal onde deve ser colocados o seu usuário e a função que vc possui que pode ser:   product_owner, developer, scrum_master. Em seguida sera exibido a tela principal onde nela irá conter suas tarefas, funções gerais e funções específicas de acordo com sua função.
 
 <p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
 
