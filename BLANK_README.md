@@ -84,7 +84,7 @@
 ## Sobre o Projeto
 
   <a href="https://github.com/github_username/repo_name">
-    <img src="Capturar.PNG" alt="Logo" width="600" height="600">
+    <img src="Capturar.PNG" alt="Logo" width="1000" height="500">
   </a>
 
 Ao inciar o projeto é aberto a tela principal onde deve ser colocados o seu usuário e a função que vc possui que pode ser:   product_owner, developer, scrum_master. Em seguida sera exibido a tela principal onde nela irá conter suas tarefas, funções gerais e funções específicas de acordo com sua função.
@@ -93,9 +93,10 @@ Ao inciar o projeto é aberto a tela principal onde deve ser colocados o seu usu
 
 
 
-### Constuido com
-* [![C++](download.png)](https://www.cplusplus.com/)
+### Construido com:
+[![C++](download.png)](https://www.cplusplus.com/)
 
+(Para obter mais informações, por favor clique na imagem).
 
 <p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
 
