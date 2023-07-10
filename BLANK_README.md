@@ -187,9 +187,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contatos
 
 Caio Gabriel - caio.cardoso.133@ufrn.edu.br
+
 Luis Henrique - luis.scalabrin.097@ufrn.edu.br
 
-Project Link: [[https://github.com/github_username/repo_name](https://github.com/github_username/repo_name](https://github.com/caiogbiel/Gerenciador_de_tarefas_SCRUM.git))
+Project Link: [(https://github.com/caiogbiel/Gerenciador_de_tarefas_SCRUM.git](https://github.com/caiogbiel/Gerenciador_de_tarefas_SCRUM.git))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
