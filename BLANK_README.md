@@ -157,12 +157,13 @@ Para mais informações, por favor verifique o [Guia oficial do SCRUM](https://s
 <!-- ROADMAP -->
 ## Roteiro
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+- [ ] Diagramas UML das classes.
+- [ ] Implementar pelo menos três algoritmos de ordenação.
+- [ ] Implementar um algoritmo de busca binária.
+- [ ] Implementar Orientação a Objetos.
+- [ ] Implementar TADs (Tipos Abstratos de Dados) usando Orientação a Objetos.
+- [ ] Manipulação de Leitura e Escrita de Arquivos.
+- [ ] Implementar testes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
