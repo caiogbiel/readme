@@ -124,11 +124,13 @@ Para programar este gerenciador foi utilizado:
 
 1. Baixei o arquivo .exe de acordo com o seu sistema operacional.
 2. Aceite os termos e prossiga com a instalação
-3. Após a instalação abra o vs code e instale as extensões c++.
+3. Após a instalação abra o vs code e instale as extensões c++:
    ```sh
    C++.
    C++: COMPILER RUN.
    ```
+   Caso possua maiores dúvidas, por favor consultar o tutorial em anexo:[Instalação do VSCode](https://youtu.be/uxln1hT_Ev4)
+   
 <p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
 
 <!-- USAGE EXAMPLES -->
