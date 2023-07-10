@@ -89,7 +89,7 @@
 
 Ao inciar o projeto é aberto a tela principal onde deve ser colocados o seu usuário e a função que vc possui que pode ser:   product_owner, developer, scrum_master. Em seguida sera exibido a tela principal onde nela irá conter funções gerais e funções específicas de acordo com sua função.
 
-<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
+<p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
 
 
 
@@ -97,7 +97,7 @@ Ao inciar o projeto é aberto a tela principal onde deve ser colocados o seu usu
 * [![C++](download.png)](https://www.cplusplus.com/)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
 
 
 
@@ -113,27 +113,23 @@ Para programar este gerenciador foi utilizado:
 * vscode
   
   [  https://code.visualstudio.com/
-](https://code.visualstudio.com/Download) 
+](https://code.visualstudio.com/Download)
+
+* github
+  
+  [https://github.com/](https://github.com/dashboard)
 
 ### Instalação
+* vscode:
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Baixei o arquivo .exe de acordo com o seu sistema operacional.
+2. Aceite os termos e prossiga com a instalação
+3. Após a instalação abra o vs code e instale as extensões c++.
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   C++.
+   C++: COMPILER RUN.
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+<p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Uso
@@ -201,8 +197,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Agradecimentos
 
-* []()
-* []()
+* Alan Turing e Charles Babbage: Pai da computação;
+* Patrick: Professor de lp1
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
