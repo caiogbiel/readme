@@ -83,8 +83,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+  <a href="https://github.com/github_username/repo_name">
+    <img src="Capturar.PNG" alt="Logo" width="600" height="600">
+  </a>
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
